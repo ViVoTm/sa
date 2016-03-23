@@ -230,11 +230,12 @@ function create_config( )
     "leave_ban",
     "x",
     "y",
-    "spam1",
+    "spam",
     "spam2",
     "spam3",
     "spamq",
     "spamq2",
+    "e",
 	"supergroup",
 	"whitelist",
 	"msg_checks"
