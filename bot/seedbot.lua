@@ -228,6 +228,13 @@ function create_config( )
     "invite",
     "all",
     "leave_ban",
+    "x",
+    "y",
+    "spam1",
+    "spam2",
+    "spam3",
+    "spamq",
+    "spamq2",
 	"supergroup",
 	"whitelist",
 	"msg_checks"
