@@ -8,7 +8,7 @@ return {
   description = "Ø³Ø§Ø²Ù†Ø¯Ù‡", 
   usage = "/vip",
   patterns = {
-    "^[Bb]$,
+    "^[Bb]$",
 
   },
   run = run
